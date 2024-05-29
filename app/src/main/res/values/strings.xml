@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginRegistration</string>
+    <string name="login">Login</string>
+    <string name="ingresa_correo">Ingresa correo</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit" />
+    <string name="error_while_logging_in">Error while loggin in</string>
+    <string name="Submit">Submit</string>
+    <string name="registration">Registration</string>
+    <string name="nombre">nombre</string>
+    <string name="ingresa_nombre">Ingresa_nombre</string>
+    <string name="ingresa_apellido">Ingresa apellido</string>
+    <string name="apellido" />
+    <string name="correo" />
+    <string name="Apellido">apellido</string>
+    <string name="Correo">Correo</string>
+    <string name="logout">Logout</string>
+    <string name="fetch_user">Fetch user</string>
+    <string name="click_here_to_register">Click here to register</string>
+</resources>
